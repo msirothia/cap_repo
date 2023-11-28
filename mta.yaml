@@ -77,7 +77,7 @@ resources:
       service-plan: application
       path: ./xs-security.json
       config: # override xsappname as it needs to be unique
-        xsappname: bookshop-${org}-${space}
+        xsappname: bookshop-COE_India_coe-main-0i3h7giw-${space}
         oauth2-configuration:
           redirect-uris:
           - ~{app-api/app-url}/**

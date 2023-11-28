@@ -20,7 +20,7 @@ import cds.gen.my.bookshop.Reviews;
 /**
  * Takes care of calculating the average rating of a book based on its review
  * ratings.
- * This is a modification comment for test purpose.
+ * This is a modification comment for test purpose....
  */
 @Component
 public class RatingCalculator {

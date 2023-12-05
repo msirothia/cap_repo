@@ -1,6 +1,6 @@
 _schema-version: '2.1'
 ID: bookshop
-version: 1.0.0
+version: 3.0.0
 description: "Bookshop CAP Java Project with UI"
 parameters:
   enable-parallel-deployments: true

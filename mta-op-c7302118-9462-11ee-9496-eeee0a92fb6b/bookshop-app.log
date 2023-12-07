@@ -1,0 +1,316 @@
+#2.0#2023 12 06 18:11:23.890#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:10:57.349939] Added process: "web" (STDOUT, API)#
+
+#2.0#2023 12 06 18:11:23.890#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:10:57.357122] Created app with guid a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 (STDOUT, API)#
+
+#2.0#2023 12 06 18:11:23.890#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:10:57.450362] Updating process: "web" (STDOUT, API)#
+
+#2.0#2023 12 06 18:11:23.890#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:10:57.504655] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2023 12 06 18:11:23.890#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:01.057453] Uploading app package for app with guid a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 (STDOUT, API)#
+
+#2.0#2023 12 06 18:11:23.890#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:01.200241] Updated app with guid a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:13.931855] Creating build for app with guid a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 (STDOUT, API)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.554343] Downloading sap_java_buildpack_1_81... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.554357] Downloading go_buildpack... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.554379] Downloading nginx_buildpack... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.554395] Downloading java_buildpack... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.588744] Downloaded nginx_buildpack (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.588775] Downloading sap_java_buildpack_1_79... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.589603] Downloaded sap_java_buildpack_1_81 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.595796] Downloading python_buildpack... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.605441] Downloaded go_buildpack (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.605469] Downloading php_buildpack... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.623998] Downloaded sap_java_buildpack_1_79 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.624023] Downloading binary_buildpack... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.624612] Downloaded java_buildpack (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.624630] Downloading sap_java_buildpack_1_80... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.638470] Downloaded sap_java_buildpack_1_80 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.638490] Downloading staticfile_buildpack... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.638728] Downloaded python_buildpack (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.638743] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.640528] Downloaded php_buildpack (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.640542] Downloading sap_java_buildpack... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.643793] Downloaded binary_buildpack (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.677121] Downloaded sap_java_buildpack (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.679532] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.680186] Downloaded staticfile_buildpack (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:14.680251] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance 27364bc7-6b7a-4ee3-bfc5-e30579c7f956 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:15.141295] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:15.161596] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance 27364bc7-6b7a-4ee3-bfc5-e30579c7f956 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:15.485466] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:16.372093] Downloaded app package (7.6M) (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:17.100880] -----> Nodejs Buildpack version 1.8.19 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:17.372894] -----> Bootstrapping python (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:17.372905] -----> Installing python 3.11.6 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:17.372981] Copy [/tmp/buildpacks/10e3bcf7bac1cbef7b5a66e7230b7cc6/dependencies/17ecec428c63fc9d4f8200b6005d8e61/python_3.11.6_linux_x64_cflinuxfs4_9aa19c6d.tgz] (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:21.193486] -----> Installing binaries (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:21.193594] engines.node (package.json): unspecified (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:21.193604] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:21.193618] [31;1m**WARNING**[0m Node version not specified in package.json or .nvmrc. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:21.193644] -----> Installing node 18.18.2 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:21.193775] Copy [/tmp/buildpacks/10e3bcf7bac1cbef7b5a66e7230b7cc6/dependencies/cd6332b04d52b0d3e9d2e860de892ca6/node_18.18.2_linux_x64_cflinuxfs4_30564fcb.tgz] (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.387739] Using default npm version: 9.8.1 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.387762] -----> Installing yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:23.891#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-1241###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.387849] Copy [/tmp/buildpacks/10e3bcf7bac1cbef7b5a66e7230b7cc6/dependencies/0f06052381cbcef1593bd279ca3d9458/yarn_1.22.19_linux_noarch_any-stack_32d0e82e.tgz] (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.911#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.746408] Installed yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.746420] -----> Creating runtime environment (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.747622] NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.747635] NODE_HOME=/tmp/contents2689799472/deps/0/node (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.747640] NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.747643] NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.747645] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.747652] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.747658] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.747661] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:23.747700] Rebuilding any native modules (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:24.504454] rebuilt dependencies successfully (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:24.513658] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:25.445209] up to date in 658ms (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:25.445288] 14 packages are looking for funding (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:25.445316] run `npm fund` for details (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:26.404148] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:26.404161] inside Sealights hook (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:33.912#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2800###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:26.404164] service is not configured to run with Sealights (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:43.944#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:35.774315] Exit status 0 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:43.944#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:35.774353] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:43.944#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:35.774399] Uploading droplet... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:43.945#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:35.774480] Uploading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:43.945#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:35.803182] Uploaded build artifacts cache (223B) (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:43.945#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:36.370645] Creating droplet for app with guid a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 (STDOUT, API)#
+
+#2.0#2023 12 06 18:11:43.945#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:39.485227] Uploaded droplet (50.2M) (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:43.945#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:39.495825] Uploading complete (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:43.945#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:39.761055] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance 27364bc7-6b7a-4ee3-bfc5-e30579c7f956 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:43.945#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:39.761082] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance 27364bc7-6b7a-4ee3-bfc5-e30579c7f956 (STDOUT, STG)#
+
+#2.0#2023 12 06 18:11:43.945#Z#DEBUG#com.sap.cloud.lm.sl.xs2.c7302118-9462-11ee-9496-eeee0a92fb6b.bookshop-app.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2810###
+[PollStageAppStatusExecution] [bookshop-app] a57bcfb3-5bd2-4a7c-b8fe-388b87fffa35 [2023-12-06T18:11:41.358066] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance 27364bc7-6b7a-4ee3-bfc5-e30579c7f956 (STDOUT, STG)#
+

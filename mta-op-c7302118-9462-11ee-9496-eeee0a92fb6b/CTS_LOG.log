@@ -1,0 +1,11 @@
+2023 12 06 18:10:46:462|+0000|INFO|Operation ID: c7302118-9462-11ee-9496-eeee0a92fb6b#
+2023 12 06 18:10:46:478|+0000|INFO|Process variables: {
+  "noConfirm" : true,
+  "abortOnError" : true,
+  "versionRule" : "ALL",
+  "failOnCrashed" : false,
+  "ctsProcessId" : "%PID%",
+  "keepOriginalAppNamesAfterDeploy" : true
+}#
+2023 12 06 18:10:50:850|+0000|INFO|Processing service "cf-logging"...#
+2023 12 06 18:10:51:095|+0000|INFO|Cannot retrieve service instance parameters of service "cf-logging"#

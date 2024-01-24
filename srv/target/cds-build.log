@@ -1,0 +1,7 @@
+srv/src/main/resources/edmx/_i18n/i18n.json
+srv/src/main/resources/edmx/csn.json
+srv/src/main/resources/edmx/odata/v4/API_BUSINESS_PARTNER.xml
+srv/src/main/resources/edmx/odata/v4/AdminService.xml
+srv/src/main/resources/edmx/odata/v4/CatalogService.xml
+srv/src/main/resources/edmx/odata/v4/NotesService.xml
+srv/src/main/resources/edmx/odata/v4/ReviewService.xml

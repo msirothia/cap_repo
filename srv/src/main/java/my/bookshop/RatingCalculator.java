@@ -19,7 +19,7 @@ import cds.gen.my.bookshop.Reviews;
 
 /**
  * This class takes care of calculating the average rating of a book based on its review ratings.
- * ## This is a sample commit for Ericcson.
+ * This is a sample commit for CAT.
  */
 
 @Component
